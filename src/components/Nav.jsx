@@ -8,7 +8,7 @@ export const Nav = () => {
             <li><Link to="/">Home</Link></li>
             <li><Link to="/generate-image"><button>Generate Image</button></Link></li>
             <li><Link to="/">Contact</Link></li>
-            <li><Link to="/">About</Link></li>
+            <li><Link to="/">About Us</Link></li>
         </ul>
 
     </nav>
